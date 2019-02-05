@@ -1,0 +1,259 @@
+{
+  "name": "Baker Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207024 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Big Squaw Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207010 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Bigrock Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207014 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Black Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207001 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Camden Snow Bowl",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207002 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Hermon Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207005 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Lost Valley Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207003 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mount Jefferson",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207012 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mount Abram",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207004 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Shawnee Peak",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207007 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Sugarloaf",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207008 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Sunday River",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207009 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Titcomb Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 207011 ,
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}

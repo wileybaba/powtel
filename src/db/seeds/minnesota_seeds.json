@@ -1,0 +1,157 @@
+{
+    "name": "Afton Alps",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612002",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Buck Hill",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612004",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Giants Ridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "218002",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Lutsen Mountains",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "218003",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Hyland Hills Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612006",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mount Kato",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "507001",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Powder Ridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612001",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Spirit Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "218004",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Welch Village Ski and Snowboard Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612008",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Wild Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612009",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Elm Creek Winter Recreation Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612022",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Andes Tower Hills",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "612003",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Buena Vista Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "218001",
+    "location": {
+        "country": "USA",
+        "state": "Minnesota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

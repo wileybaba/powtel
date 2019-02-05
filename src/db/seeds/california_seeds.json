@@ -1,0 +1,539 @@
+{
+  "name": "Alpine Meadows",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916001,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Bear Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 909002,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Bear Valley Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 209002,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Boreal Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916002,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "China Peak Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 209005,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Diamond Peak",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 702001,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Dodge Ridge Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 209003,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Donner Ski Ranch",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916003 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Heavenly Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916004 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Homewood Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916009 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "June Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619001 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Kirkwood Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 209004 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mammoth Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619002 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mountain High Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619006 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mount Baldy Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 909004 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mount Rose Ski Tahoe",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 702003 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Mount Shasta Ski Park",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916006,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Northstar",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916007 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Sierra at Tahoe",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916008 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Snow Summit",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 909001,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Snow Summit",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619001 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Snow Valley",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 909005 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Soda Springs Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 616010,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Squaw Valley",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619011 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Sugar Bowl",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 619012,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Tahoe Donner",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 916013 ,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Yosemite Ski & Snowboard Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 209001,
+  "location": {
+    "country": "USA",
+    "state": "California",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}

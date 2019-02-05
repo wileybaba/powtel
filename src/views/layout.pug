@@ -1,0 +1,37 @@
+doctype html(lang='en')
+head
+  meta(charset='utf-8')
+  meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  meta(http-equiv='x-ua-compatible', content='ie=edge')
+  title Powder Intelligence | #{title}
+  link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.22/css/uikit.min.css')
+  link(rel='stylesheet', href='/stylesheets/style.css')
+  link(rel='shortcut icon', href='images/powtel_favicon.png')
+
+  //- // snowstorm
+  //- script(src='javascript/snowstorm.js')
+body
+  // load navbar.jade
+  include navbar
+  
+  // alert box
+  include flash
+  
+  // modal register box
+  include register_modal
+  
+  // modal login box
+  include login_modal
+
+  // content block
+  block content
+
+  // footer
+  include footer
+
+  // UIkit JS
+  script(src='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.22/js/uikit.min.js')
+  script(src='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.22/js/uikit-icons.min.js')
+
+
+    

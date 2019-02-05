@@ -1,0 +1,14 @@
+#modal-login(uk-modal='')
+  .uk-modal-dialog
+    button.uk-modal-close-default(type='button', uk-close='')
+    .uk-modal-header
+      h2.uk-modal-title Log In
+    .uk-modal-body
+      .uk-container
+        form(method='POST' action='/auth/login')
+          fieldset.uk-fieldset
+            input#email.uk-input(type='text', placeholder='Email address', name='email')
+          .uk-margin
+            input#pw.uk-input(type='text', placeholder='Password', name='password')
+          .uk-margin
+            button.uk-button.uk-button-primary(type='submit') Log In

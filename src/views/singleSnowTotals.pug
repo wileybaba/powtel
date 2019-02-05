@@ -1,0 +1,19 @@
+div
+  div.snow_report.uk-card.uk-card-default
+    h1 Snow Totals
+    div
+    table.uk-table(cellpadding="0" cellspacing="0" border="0")
+      thead.tbl-header(style="text-align: center")
+        tr
+          th(style="text-align: center") Past 48 Hours
+          th(style="text-align: center") Past 24 Hours
+          th(style="text-align: center") Next 3 Days
+    div.tbl-content
+      table(cellpadding="0" cellspacing="0" border="0")
+        tbody
+          tr
+            td(style="font-size: 1.5rem; text-align: center;")= data[0].current_resort_data[0].snowLast48Hours ? data[0].current_resort_data[0].snowLast48Hours + "\"" : "0" + "\""
+            td(style="font-size: 1.5rem; text-align: center;")= data[0].current_resort_data[0].newSnowMin ? data[0].current_resort_data[0].newSnowMin + "\"" : "0" + "\""
+            td(style="font-size: 1.5rem; text-align: center;")= data[0].current_resort_data[0].predictedSnowFall_72Hours ? data[0].current_resort_data[0].predictedSnowFall_72Hours + "\"" : "0"  + "\""
+  p
+    | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.

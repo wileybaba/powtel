@@ -1,0 +1,72 @@
+block content
+  .uk-text-center(class='uk-child-width-1-2@m', uk-grid='masonry:true')
+    div  
+      div.snow_report.uk-card.uk-card-default.uk-animation-slide-left
+        h1 Todays snow report
+        div
+        table.uk-table(cellpadding="0" cellspacing="0" border="0")
+          thead.tbl-header
+            tr
+              th resort
+              th Past 24 Hours
+              th Last 3 Days
+              th Last 7 Days
+        div.tbl-content
+          table(cellpadding="0" cellspacing="0" border="0")
+            tbody
+              tr
+                td #{data[0].name}
+                td #{data[0].current_resort_data.newSnowMin}"
+                td #{data[0].current_resort_data.h72total}"
+                td 24"
+              tr 
+                td #{data[1].name}
+                td #{data[1].current_resort_data.h24total}"
+                td #{data[1].current_resort_data.h72total}"
+                td 10"
+              tr
+                td #{data[2].name}
+                td #{data[2].current_resort_data.h24total}"
+                td #{data[2].current_resort_data.h72total}"
+                td 20"
+              tr
+                td #{data[3].name}
+                td #{data[3].current_resort_data.h24total}"
+                td #{data[3].current_resort_data.h72total}"
+                td 14"
+                div
+      .uk-margin
+      .uk-card.uk-card-default.uk-animation-slide-bottom
+        .uk-card-header
+          h2.uk-card-title.uk-margin-remove-bottom(style="text-transform: uppercase;") Jackson's Weekly Outlook
+          p.uk-text-meta.uk-margin-remove-top
+            time(datetime='2016-04-01T19:00') November 24, 2018
+        .uk-card-body
+          p
+            | A large storm has rolled into the rockies this week and should provide upwards of 20" of fresh snow.
+        .uk-card-footer
+          button.uk-button.uk-button-default.pow-brief(href='#') Read more
+      .uk-margin
+    .uk-text-center(class='uk-child-width-expand@s', uk-grid='')
+    div
+      .uk-card.uk-card-default.uk-card-body.uk-animation-slide-bottom
+        .uk-grid-small.uk-flex-middle(uk-grid='')
+          .uk-width-expand
+            h3.uk-card-title Join Our Mailing List
+            p For snowstorm alerts, graphs, data, and special offers.
+            .uk-margin
+        .uk-card-footer
+          form
+            .uk-margin
+              .uk-inline
+                span.uk-form-icon(uk-icon='icon: mail')
+                input.uk-input(type='text', placeholder='ShredKing@jerry.com')
+              button.uk-button.uk-button-default.pow-brief(href='#') Email me
+      
+    div
+      .uk-card.uk-card-default.uk-grid-collapse.uk-card-body.uk-animation-fade 
+        .uk-card-badge.badge-warning.uk-label(style='padding-bottom: 10px;') Know before you go
+        h3.uk-card-title COLORADO AVALANCHE DANGER
+        iframe#caic_fx_map(name='caic_fx_map', src='http://avalanche.state.co.us/caic/fx_map.php', sandbox="allow-scripts", width='400px', height='565px', scrolling='yes', marginwidth='0', marginheight='0', frameborder='0', vspace='0', hspace='0')
+        br
+        img(src='http://avalanche.state.co.us/caic/images/map-danger-scale.png')

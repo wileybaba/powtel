@@ -1,0 +1,13 @@
+{
+    "name": "Lee Canyon",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "702002",
+    "location": {
+        "country": "USA",
+        "state": "Nevada",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

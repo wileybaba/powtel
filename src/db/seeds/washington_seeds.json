@@ -1,0 +1,145 @@
+{
+    "name": "Bluewood",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509003",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "49 Degrees North Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509001",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Loup Loup Ski Bowl",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509007",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mt Baker Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "206003",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Badger Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509010",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mt Spokane Ski and Snowboard Park",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509005",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Summit at Snoqualmie",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "425713",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Summit at Snoqualmie Alpental",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "425715",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Crystal Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "206002",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "White Pass Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509004",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Stevens Pass Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "206004",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mission Ridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "509002",
+    "location": {
+        "country": "USA",
+        "state": "Washington",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Alta",
+  "logo": "/images/resort_logos/alta.jpg",
+  "class": "resort",
+  "location": {
+    "country": "USA",
+    "state": "Utah",
+    "city": "Sandy",
+    "type": 'Point',
+    "coordinates": [40.5883, -111.6358]
+  },
+  "current_snow_data": {
+    "h24total": 1,
+    "h72total": 6,
+    "d7total": 17,
+    "surface_conditions": 'powder'
+  },
+  "resort_info": {
+    "vertical_m": 3216,
+    "lifts": 6,
+    "surface_tows": 5
+  }
+}
+
+{
+  "name": "Brighton",
+  "logo": "/images/resort_logos/brighton.png",
+  "class": "resort",
+  "location": {
+    "country": "USA",
+    "state": "Utah",
+    "city": "Brighton",
+    "type": 'Point',
+    "coordinates": [40.5980, -111.5832]
+  },
+  "current_snow_data": {
+    "h24total": 1,
+    "h72total": 6,
+    "d7total": 17,
+    "surface_conditions": 'variable'
+  },
+  "resort_info": {
+    "lifts": 7
+  }
+}
+
+{
+  "name": "Deer Valley",
+  "logo": "/images/resort_logos/deer_valley.png",
+  "class": "resort",
+  "location": {
+    "country": "USA",
+    "state": "Utah",
+    "city": "Park City",
+    "type": 'Point',
+    "coordinates": [40.6374, -111.4783]
+  },
+  "current_snow_data": {
+    "h24total": 1,
+    "h72total": 6,
+    "d7total": 17,
+    "surface_conditions": 'powder'
+  },
+  "resort_info": {
+    "vertical_m": 910,
+    "skiable_acres": 2026,
+    "trails": 101,
+    "lifts": 24
+  }
+}
+
+{
+  "name": "Park City Mountain",
+  "logo": "/images/resort_logos/park_city.jpg",
+  "class": "resort",
+  "pass": "EPIC",
+  "location": {
+    "country": "USA",
+    "state": "Utah",
+    "city": "Park City",
+    "type": 'Point',
+    "coordinates": [40.6514, -111.5080]
+  },
+  "current_snow_data": {
+    "h24total": 1,
+    "h72total": 6,
+    "d7total": 17,
+    "surface_conditions": 'powder'
+  },
+  "resort_info": {
+    "vertical_m": 975,
+    "skiable_acres": 7300,
+    "trails": 324,
+    "lifts": 41
+  }
+}
+
+{
+  "name": "Snowbird",
+  "logo": "/images/resort_logos/snowbird.png",
+  "class": "resort",
+  "location": {
+    "country": "USA",
+    "state": "Utah",
+    "city": "Little Cottonwood Canyon",
+    "type": 'Point',
+    "coordinates": [40.5808, -111.6577]
+  },
+  "current_snow_data": {
+    "h24total": 1,
+    "h72total": 6,
+    "d7total": 17,
+    "surface_conditions": 'powder'
+  },
+  "resort_info": {
+    "skiable_acres": 2500,
+    "trails": 170,
+    "lifts": 8
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "name": "Big Sky",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406002,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Blacktail Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406015,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Bridger Bowl",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406003,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Discovery Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406004,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Great Divide",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406005,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Lost Trail",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406014,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Maverick Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406007,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Montana Snowbowl",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406008,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Red Mountain Lodge",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406009,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Showdown Montana",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406011,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Whitefish Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 406001,
+  "location": {
+    "country": "USA",
+    "state": "Montana",
+    "city": "",
+    "type": 'Point',
+    "coordinates": []
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}

@@ -1,0 +1,223 @@
+nav.uk-navbar-nav(uk-navbar='mode: click', uk-sticky='')
+  .uk-navbar-left
+    img.uk-margin-left(src = "../images/powtel.png", class='uk-visible@m')
+    a.uk-navbar-item.uk-logo(href='/') POWDER INTELLIGENCE
+    ul.uk-navbar-nav(class='uk-visible@m')
+      li
+        a(href='#')
+          span.uk-icon.uk-margin-small-right(uk-icon='icon: info')
+          | Snow Reports
+        .uk-navbar-dropdown.uk-navbar-dropdown-width-3
+          .uk-navbar-dropdown-grid.uk-child-width-1-3(uk-grid='')
+            div
+              ul.uk-nav.uk-navbar-dropdown-nav.main-nav
+                li.uk-nav-header East
+                li
+                  a(href='/region/vermont') Vermont
+                li
+                  a(href='/region/maine') Maine
+                li
+                  a(href='/region/new-hampshire') New Hampshire
+                li
+                  a(href='/region/new-york') New York  
+                li
+                  a(href='/region/massachusetts') Massachusetts 
+                li.uk-nav-header West
+                li
+                  a(href='/region/california') California
+                li
+                  a(href='/region/colorado') Colorado
+                li
+                  a(href='/region/utah') Utah
+                li
+                  a(href='/region/wyoming') Wyoming
+                li
+                  a(href='/region/montana') Montana
+                li
+                  a(href='#') New Mexico
+    
+            div
+              ul.uk-nav.uk-navbar-dropdown-nav.main-nav
+                li.uk-nav-header Europe 
+                li
+                  a(href='#') France
+                li
+                  a(href='#') Austria
+                li
+                  a(href='#') Switzerland
+                li
+                  a(href='#') Italy
+                li.uk-nav-header Japan
+                li
+                  a(href='#') Hoikkaido
+                li
+                  a(href='#') Niseko
+                li.uk-nav-header Latin America
+                li
+                  a(href='#') Chile
+                li
+                  a(href='#') Patagonia
+            div
+              ul.uk-nav.uk-navbar-dropdown-nav.main-nav
+                li.uk-nav-divider
+                li.uk-nav-header Passes
+                li
+                  a(href='#') Ikon
+                li
+                  a(href='#') Epic
+                li
+                  a(href='#') Mountain Collective
+                li
+                  a(href='#') Colorado GEMS
+                li
+                  a(href='#') Freedom Pass
+                li
+                  a(href='#') Powder Alliance              
+                li
+                  a(href='#') Power Pass
+      ul.uk-navbar-nav
+        li
+          a(href='../api') Data
+          div.uk-navbar-dropdown
+            ul.uk-nav.uk-navbar-dropdown-nav.main-nav
+              li
+                a(href='api') API
+              li 
+                a(href='https://www.wcc.nrcs.usda.gov/snow/') Snotel
+              li 
+                a(href='#') Historical Snowfall
+      li
+        a(href='../about') About
+      li(class='uk-visible@l')
+        .uk-navbar-item
+          form.uk-search.uk-search-navbar(action='/location', method='GET')
+            span.uk-search-icon-flip(uk-search-icon='')
+            input.uk-search-input(type='search', name='search', style="font-size: 1rem; padding-left: 12px; border-radius: .2rem; background: rgba(0, 0, 0, 0.15); color: white", placeholder='Search for resorts, locations, ...')
+      
+  .uk-navbar-right(class='uk-visible@m')
+    ul.uk-navbar-nav
+      if !currentUser
+        li
+          a.button1(href='#modal-register', uk-toggle='') Sign Up
+      if currentUser
+        ul.uk-navbar-nav
+          li 
+            a(href='profile') My Profile
+              span.uk-icon.uk-margin-small-left(uk-icon='icon: user')
+          li
+            a(href='/auth/logout') Log Out
+      else 
+          li
+            a(href='#modal-login', uk-toggle='') Log In
+  div.uk-navbar-right(class='uk-hidden@m', style='margin-right: 1%') 
+    button.uk-button.uk-button-default(type='button', uk-toggle='target: #offcanvas-nav') &#9776;
+
+    
+
+  #offcanvas-nav(uk-offcanvas='mode: push')
+    .uk-offcanvas-bar
+      ul.uk-nav-default.uk-nav-parent-icon(uk-nav='')
+        li.uk-parent
+          a(href='#')
+            span.uk-margin-small-right(uk-icon='icon: image')
+            |  Snow Reports
+          ul.uk-nav-sub
+            li.uk-nav-header East
+            li
+              a(href='/region/vermont') Vermont
+            li
+              a(href='#') Maine
+            li
+              a(href='#') New Hampshire
+            li.uk-nav-header West
+            li
+              a(href='/region/california') California
+            li
+              a(href='/region/colorado') Colorado
+            li
+              a(href='/region/utah') Utah
+            li
+              a(href='#') Wyoming
+            li
+              a(href='#') Montana
+            li
+              a(href='#') New Mexico
+            li.uk-nav-header Europe 
+            li
+              a(href='#') France
+            li
+              a(href='#') Austria
+            li
+              a(href='#') Switzerland
+            li
+              a(href='#') Italy
+            li.uk-nav-header Japan
+            li
+              a(href='#') Item
+            li
+              a(href='#') Item
+            li.uk-nav-header Latin America
+            li
+              a(href='#') Chile
+            li
+              a(href='#') Patagonia
+            li.uk-nav-divider
+            li.uk-nav-header Passes
+            li
+              a(href='#') Ikon
+            li
+              a(href='#') Epic
+            li
+              a(href='#') Mountain Collective
+            li
+              a(href='#') Colorado GEMS
+            li
+              a(href='#') Freedom Pass
+            li
+              a(href='#') Powder Alliance              
+            li
+              a(href='#') Power Pass
+ 
+        li.uk-parent
+          a(href='../api')
+            span.uk-margin-small-right(uk-icon='icon: world')
+            | Data
+          ul.uk-nav-sub
+            li
+              a(href='../api') API
+            li
+              a(href='https://www.wcc.nrcs.usda.gov/snow/') Snotel
+            li
+              a(href='#') Historical
+        li
+          a(href='../about') 
+            span.uk-margin-small-right(uk-icon='icon: info')
+            | About
+        li.uk-nav-header Account
+        if !currentUser
+          li
+            a(href='#modal-register', uk-toggle='')
+              span.uk-margin-small-right(uk-icon='icon: pencil')
+              |  Sign Up
+        if currentUser
+          ul.uk-navbar-nav
+            li 
+              a(href='profile') My Profile
+                span.uk-icon.uk-margin-small-left(uk-icon='icon: user')
+                  li
+                    a(href='register')
+                      span.uk-margin-small-right(uk-icon='icon: sign-out')
+                      |  Log Out
+        else 
+          li
+            a(href='register')
+              span.uk-margin-small-right(uk-icon='icon: sign-in')
+              |  Log In
+
+        li.uk-nav-divider
+        li
+          a(href='#')
+            span.uk-margin-small-right(uk-icon='icon: play-circle')
+            |  Advertisers
+
+        

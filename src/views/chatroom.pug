@@ -1,0 +1,18 @@
+
+
+include layout
+
+block content
+  .uk-card.uk-card-default(class='uk-width-1-2@m')
+    .uk-card-header
+      .uk-grid-small.uk-flex-middle(uk-grid='')
+        .uk-width-auto
+
+    .uk-card-body
+      p
+        ul#messages(style=' list-style-type: none;')
+    .uk-card-footer
+      form.message(action='', style=' bottom: 0; width: 100%')
+        input#m(autocomplete='off', style='border: 0; padding: 10px; margin-right: 1%; background-color: grey ')
+        button(style='background: rgb(130, 224, 255); border: none; padding: 10px;') Send
+  

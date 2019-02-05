@@ -1,0 +1,159 @@
+{
+  "name": "Grand Targhee",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307002,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Alta",
+    "type": 'Point',
+    "coordinates": [43.78815, -110.947335]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Hogadon Basin",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307003,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Casper",
+    "type": 'Point',
+    "coordinates": [42.74743, -106.341433]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Snow King",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307006,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Jackson Hole",
+    "type": 'Point',
+    "coordinates": [43.468497, -110.758923]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Jackson Hole",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307008,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Teton Village",
+    "type": 'Point',
+    "coordinates": [43.593558, -110.847993]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Sleeping Giant",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307010,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Cody",
+    "type": 'Point',
+    "coordinates": [44.491991, -109.941418]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Snowy Range",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307011,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Centennial",
+    "type": 'Point',
+    "coordinates": [41.339447, -106.186126]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "Meadowlark",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307013,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Ten Sleep",
+    "type": 'Point',
+    "coordinates": [44.162561, -107.214725]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}
+
+{
+  "name": "White Pine",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 307016,
+  "location": {
+    "country": "USA",
+    "state": "Wyoming",
+    "city": "Pinedale",
+    "type": 'Point',
+    "coordinates": [42.971897, -109.752073]
+  },
+  "current_weather_data": {
+
+  },
+  "current_resort_data": {
+
+  }
+}

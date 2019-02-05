@@ -1,0 +1,13 @@
+{
+    "name": "Terry Peak Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "605002",
+    "location": {
+        "country": "USA",
+        "state": "South Dakota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

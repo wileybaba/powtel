@@ -1,0 +1,19 @@
+extends layout
+  
+block content  
+
+  .uk-height-large.uk-flex.uk-flex-center.uk-flex-middle.uk-background-cover.uk-light(data-src='images/mountain_back.jpg', uk-img='', style='height: 90vh;')
+    div.jumbotron
+      h1.jumbotron_h(style=' font-size: 7vh;') THE MOST OPTIMISTIC SNOW FORECAST ON THE WEB
+      p.jumbotron_p.uk-heading-line(style=' font-size: 4vh;')
+        span We're leveraging big data to help you get more powder days.
+      br
+      button.btn.jumbobutton(href='#modal-register', uk-toggle='') Join the intelligence community
+  .uk-container.uk-container-expand.uk-margin  
+    include location_based_totals
+      
+
+            
+            
+            
+              

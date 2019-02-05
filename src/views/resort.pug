@@ -1,0 +1,42 @@
+extends layout
+
+block content
+  .uk-container.uk-margin(style='margin-left: 10px;')
+    h1.uk-heading-primary
+      span(uk-icon='icon: image; ratio: 3.5').uk-margin-right
+      | #{data[0].name}
+      span.uk-margin-left 
+    p #{data[0].location.city}, #{data[0].location.state}
+  .uk-container.uk-container-expand.uk-margin
+    .uk-grid-match(class='uk-child-width-1-2@m', uk-grid='')
+      include singleSnowTotals
+      div
+        .uk-card.uk-card-default.uk-flex
+          .uk-card-footer
+            div(class= "uk-column-1-1@xs uk-column-1-2@s")
+              if data[0].current_resort_data[0].primarySurfaceCondition
+                div(style="margin-right: 30px; text-align: center")
+                  dl.uk-description-list
+                    dt Surface Conditions
+                    dd.uk-badge.uk-label(style="background-color: #8080ff")= data[0].current_resort_data[0].primarySurfaceCondition
+              if data[0].current_resort_data[0].openDownHillPercent
+                div(style="margin-right: 30px; text-align: center")
+                  dl.uk-description-list 
+                    dt Open Terrain
+                    dd.uk-badge.uk-label(style="background-color: #80ff80; color: black")= data[0].current_resort_data[0].openDownHillPercent + '%'
+              if data[0].current_weather_data.temp
+                div(style="text-align: center; margin-right: 30px;").uk-flex-row
+                  dl.uk-description-list 
+                    dt Current Temperature
+                    dd.uk-badge.uk-label(style="background-color: #4db8ff")= Math.round(data[0].current_weather_data.temp) + '˚F'
+              if data[0].current_resort_data[0].weatherToday_Sunset
+                div(style="text-align: center; margin-right: 30px;").uk-flex-row
+                  dl.uk-description-list 
+                    dt Sunset
+                    dd.uk-badge.uk-label(style="background-color: #ff7d4d")= data[0].current_resort_data[0].weatherToday_Sunset
+                        
+  //- div.uk-overflow-auto
+  //-   .uk-card.uk-card-default.uk-grid-collapse.uk-card-body.uk-animation-fade 
+  //-       h3 This is another box
+        
+    

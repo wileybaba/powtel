@@ -1,0 +1,13 @@
+{
+    "name": "Huff Hills Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "701004",
+    "location": {
+        "country": "USA",
+        "state": "North Dakota",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

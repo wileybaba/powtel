@@ -1,0 +1,125 @@
+{
+    "name": "Anthony Lakes Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503001,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": 'Point',
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Cooper Spur Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503002,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Mt Ashland Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503008,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Mt Bachelor",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503004,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Mt Hood Meadows Ski Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503006,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Mt Hood Skibowl",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503007,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Hoodoo Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503003,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Timberline Lodge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503009,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
+
+{
+    "name": "Willamette Pass",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 503010,
+    "location": {
+        "country": "USA",
+        "state": "Oregon",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

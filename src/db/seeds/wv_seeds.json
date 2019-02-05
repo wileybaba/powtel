@@ -1,0 +1,49 @@
+{
+    "name": "Canaan Valley Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "304005",
+    "location": {
+        "country": "USA",
+        "state": "West Virginia",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Snowshoe Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "304001",
+    "location": {
+        "country": "USA",
+        "state": "West Virginia",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Timberline Four Seasons Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "304002",
+    "location": {
+        "country": "USA",
+        "state": "West Virginia",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Winterplace Ski Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "304003",
+    "location": {
+        "country": "USA",
+        "state": "West Virginia",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

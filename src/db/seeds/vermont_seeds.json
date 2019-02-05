@@ -1,0 +1,261 @@
+{
+  "name": "Killington",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": 802007,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Killington",
+    "type": 'Point',
+    "coordinates": [43.6776, -72.7798]
+  },
+  "current_weather_data": {
+
+  },
+  "resort_info": {
+
+  }
+}
+
+{
+  "name": "Bolton Valley",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802002,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Bolton",
+    "type": 'Point',
+    "coordinates": [44.418423, -72.84087]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Bromley",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802003,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Peru",
+    "type": 'Point',
+    "coordinates": [43.221034, -72.936885]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Burke Mountain",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802004,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "East Burke",
+    "type": 'Point',
+    "coordinates": [44.57813, -71.899378]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Jay Peak",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802006,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Jay",
+    "type": 'Point',
+    "coordinates": [44.928291, -72.517076]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Mad River Glen",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802008,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Fayston",
+    "type": 'Point',
+    "coordinates": [44.201193, -72.927985]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Magic Mountain",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802009,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Londonderry",
+    "type": 'Point',
+    "coordinates": [43.19767, -72.767097]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Mount Snow",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802012,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "West Dover",
+    "type": 'Point',
+    "coordinates": [42.961938, -72.910983]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Okemo",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802013,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Ludlow",
+    "type": 'Point',
+    "coordinates": [43.408095, -72.733338]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Pico Mountain",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802014,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Killington",
+    "type": 'Point',
+    "coordinates": [43.653974, -72.842524]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Ski Quechee",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802015,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Quechee",
+    "type": 'Point',
+    "coordinates": [43.659736, -72.446038]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Smugglers Notch",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802016,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Jeffersonville",
+    "type": 'Point',
+    "coordinates": [44.585454, -72.776316]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Stowe",
+  "class": "resort",
+  "pass": "Epic",
+  "snoCountryID": 802018,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Stowe",
+    "type": 'Point',
+    "coordinates": [44.528501, -72.796842]
+  },
+  "resort_info": {
+    "vertical_m": 643,
+    "lifts": 16
+  }
+}
+
+{
+  "name": "Stratton",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802019,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Stratton Mountain",
+    "type": 'Point',
+    "coordinates": [43.105203, -72.911184]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Suicide Six",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802021,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "South Pomfret",
+    "type": 'Point',
+    "coordinates": [43.662669, -72.546866]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}
+
+{
+  "name": "Sugarbush",
+  "class": "resort",
+  "pass": "",
+  "snoCountryID": 802023,
+  "location": {
+    "country": "USA",
+    "state": "Vermont",
+    "city": "Warren",
+    "type": 'Point',
+    "coordinates": [44.131537, -72.911139]
+  },
+  "current_snow_data": {},
+  "resort_info": {}
+}

@@ -1,0 +1,397 @@
+{
+    "name": "Buffalo Ski Club",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "6",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Belleayre Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "914001",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Cockaigne Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716002",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Four Seasons Ski Center",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315002",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Dry Hill Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315011",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Gore Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518005",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Greek Peak Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "607001",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Bristol Mountain ",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716001",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Holiday Valley",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716003",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Holiday Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "914003",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "HoliMont",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716010",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Hunter Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518006",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Kissing Bridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716004",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Labrador Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "607002",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Maple Ski Ridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518016",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Brantling Ski Slopes",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315001",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mount Peter Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "914004",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "McCauley Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315004",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Plattekill Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "607003",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Royal Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518017",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Oak Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518007",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Peek n Peak Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "716005",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Snow Ridge Ski Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315009",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Song Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315006",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Swain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "607005",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Thunder Ridge Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "914002",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Titus Mountain Family Ski Center",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518013",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Toggenburg Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315007",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "West Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518010",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Whiteface Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518012",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Willard Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518011",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Windham Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "518009",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Woods Valley Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "315008",
+    "location": {
+        "country": "USA",
+        "state": "New York",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Bogus Basin",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208001",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Kelly Canyon Ski Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208015",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Lookout Pass Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208004",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Magic Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208005",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Pebble Creek Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208006",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Pomerelle Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208007",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Schweitzer Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208008",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Brundage Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208002",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Silver Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208009",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Soldier Mountain Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208010",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Sun Valley Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208012",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Tamarack Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "208021",
+    "location": {
+        "country": "USA",
+        "state": "Idaho",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

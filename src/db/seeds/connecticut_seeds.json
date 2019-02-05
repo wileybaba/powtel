@@ -1,0 +1,49 @@
+{
+    "name": "Powder Ridge Mountain Park & Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 203004,
+    "location": {
+        "country": "USA",
+        "state": "Connecticut",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mohawk Mountain Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 203001,
+    "location": {
+        "country": "USA",
+        "state": "Connecticut",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mount Southington Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 203002,
+    "location": {
+        "country": "USA",
+        "state": "Connecticut",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Sundown",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 203005,
+    "location": {
+        "country": "USA",
+        "state": "Connecticut",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

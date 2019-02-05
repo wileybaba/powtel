@@ -1,0 +1,25 @@
+{
+    "name": "Arizona Snowbowl",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 602001,
+    "location": {
+        "country": "USA",
+        "state": "Arizona",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Sunrise Park Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 602003,
+    "location": {
+        "country": "USA",
+        "state": "Arizona",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

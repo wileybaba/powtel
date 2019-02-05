@@ -1,0 +1,13 @@
+{
+  "name": "Sugarloaf",
+  "location": {
+    "country": "USA",
+    "state": "Maine",
+    "city": "Bumfuck",
+    "coordinates": [39.9372, 105.5827]
+  },
+  "current_snow_data": {
+    "h24total": 4,
+    "h72total": 7
+  }
+}

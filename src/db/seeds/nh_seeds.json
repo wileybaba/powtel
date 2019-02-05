@@ -1,0 +1,217 @@
+{
+  "name": "Arrowhead Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603031",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Attitash Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603002",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Black Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603004",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Bretton Woods",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603005",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Cannon Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603006",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Cranmore Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603007",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Crotched Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603028",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Gunstock Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603009",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Dartmouth Skiway",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603008",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Loon Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603014",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "McIntyre Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603015",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Mount Sunapee Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603017",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "King Pine Ski Area",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603011",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Ragged Mountain Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603019",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Pats Peak",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603018",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Waterville Valley Resort",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603001",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Whaleback Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603026",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}{
+  "name": "Wildcat Mountain",
+  "pass": "",
+  "class": "resort",
+  "snoCountryID": "603021",
+  "location": {
+    "country": "USA",
+    "state": "New Hampshire",
+    "city": "",
+    "type": "Point",
+    "coordinates": []
+  }
+}

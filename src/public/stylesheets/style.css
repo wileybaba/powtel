@@ -1,0 +1,323 @@
+
+/* Base Styles */
+html {
+	background: none;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+	background-color: #eee9e9;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+
+nav {
+	background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(69deg, #676576, #426BF4);
+	box-shadow: 0px 1px 10px #999;
+	height: 10vh;
+}
+
+main {
+	min-height: 100%;
+	margin-bottom: -100px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+.uk-navbar-nav li a {
+	color: white;
+}
+
+.uk-navbar-nav .main-nav li a {
+	color: #8585ad;
+}
+
+
+.uk-navbar-nav li a:hover {
+	color: #e6f9ff;
+}
+
+.uk-navbar-dropdown li a:hover {
+	color: black;
+}
+
+.uk-navbar-nav li a:focus {
+	color: 	#ffcccc;
+}
+
+.uk-logo {
+	color: white;
+	font-weight: bold;
+}
+
+.uk-logo:hover {
+	color: #f0f0f5;
+}
+
+.uk-button {
+	color: white;
+}
+
+.uk-button:hover {
+	color: #f0f0f5;
+}
+
+footer {
+	font-size: .85rem;
+	position: auto;
+	height: auto;
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #676576, #426BF4);
+}
+
+.snow_report {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #676576, #426BF4);
+	color: white;
+
+	/* background-image: linear-gradient(#66a3ff, #e6f9ff); */
+}
+
+img.resort_logo {
+	width: 15%
+}
+
+
+.snow_report table {
+	width:100%;
+	table-layout:fixed;
+}
+
+.snow_report h1{
+	color: #e6f9ff;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 300;
+	text-align: center;
+	margin-bottom: 15px;
+}
+.tbl-header{
+	background-color: rgba(255,255,255,0.3);
+}
+
+.snow_report .tbl-content{
+	overflow-x: auto;
+	margin-top: 0px;
+	border: 1px solid rgba(255,255,255,0.3);
+}
+.snow_report th{
+	padding: 20px 15px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 12px;
+  color: black;
+  text-transform: uppercase;
+}
+.snow_report td {
+	padding: 15px;
+  text-align: left;
+  vertical-align:middle;
+  font-weight: 300;
+  font-size: 12px;
+  color: white;
+  border-bottom: solid 1px rgba(255,255,255,0.1);
+}
+/* email collector style */
+.jumbotron {
+	text-align: center;
+	margin: auto;
+	margin-top:50px;
+	background-size: cover;
+	padding-top: 40px;
+}
+
+.jumbotron_h {
+  font-size: 3em;
+	color: #f5fffa;
+}
+
+.jumbotron_p {
+  font-weight:300;
+  font-size: 2em;
+	color: #f5fffa;
+}
+
+.pow-brief {
+	color: black;
+}
+
+.pow-brief:hover {
+	color: #66a3ff;
+}
+
+.error_page {
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 50%
+}
+
+
+
+
+/* Modifier Styles */
+
+
+.nav-items .nav-link {
+	margin: 0 2rem;
+}
+
+
+
+.navbar .nav-link,
+.navbar .btn {
+	text-transform: uppercase;
+	font-size: .95rem;
+}
+.list-group {
+	color: initial;
+}
+.label {
+	font-size: .88rem;
+	vertical-align: top;
+	margin: 3px 0 0 4px;
+}
+
+.search-text {
+	font-size: .5rem;
+}
+
+a.button1{
+ display:inline-block;
+ padding:0.35em 1.2em;
+ border:0.1em solid #FFFFFF;
+ margin:0 0.3em 0.3em 0;
+ border-radius:0.12em;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-family:'Roboto',sans-serif;
+ font-weight:300;
+ color:#FFFFFF;
+ text-align:center;
+ transition: all 0.2s;
+}
+a.button1:hover{
+ color:#000000;
+ background-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+ a.button1{
+  display:block;
+  margin:0.4em auto;
+ }
+}
+
+.badge-warning {
+	background-color: #ffcc00;
+	color: black;
+}
+/* Media Queries */
+
+@media (min-width: 0) and (max-width: 47em) {
+
+	.jumbotron_h {
+		font-size: 2.25rem;
+	}
+
+	.jumbotron_p {
+		font-size: 1rem;
+	}
+
+	.nav-items .nav-item {
+		float: none;
+	}
+	.nav-items .nav-link  {
+		padding: .65rem 0;
+	}
+	.nav-items {
+		padding: 1rem 0;
+		clear: left;
+	}
+	.navbar .btn {
+		margin-left: 1rem;
+	}
+	.uk-logo {
+		font-size: 1.1em;
+	}
+	.main {
+		padding-top: 6rem;
+	}
+}
+
+@media (min-width: 48em) {
+	.navbar {
+		min-height: 70px;
+	}
+	.navbar-nav .container {
+		display: -webkit-flex;
+		display: flex;
+	}
+	.nav-items {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.main {
+		/* padding-top: 8rem; */
+	}
+}
+
+.jumbobutton {
+    border-radius: 100rem;
+    padding: 1rem;
+    font-family: 'Avenir Next';
+    font-size: 1rem;
+    padding: .5rem 3rem;
+    color: #426BF4;
+    box-shadow: 0 0 6px 0 rgba(157, 96, 212, 0.5);
+    border: solid 3px transparent;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #676576, #426BF4);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    box-shadow: 2px 1000px 1px #fff inset;
+		-webkit-transition: all 0.6s cubic-bezier(.9, .24, .40, 1);
+		transition: all 0.6s cubic-bezier(.9, .24, .40, 1)
+	}
+
+.jumbobutton::before {
+    content: '';
+    width: 100%;
+    height: 0%;
+    display: block;
+    position: absolute;
+    left: 0%;
+    opacity: 0;
+    top: 0;
+    z-index: -1;
+    -webkit-transition: height .4s cubic-bezier(0.9, 1, 0.32, 1), opacity .1s ease;
+    transition: height .4s cubic-bezier(0.9, 1, 0.32, 1), opacity .1s ease;
+
+}
+
+.jumbobutton:hover::before {
+    opacity: 1;
+    height: 100%;
+}
+
+.jumbobutton:hover {
+    box-shadow: inset 00px 100px 0px 0px #426BF4;
+    color: #ffffff;
+}

@@ -1,0 +1,23 @@
+#modal-register(uk-modal='')
+  .uk-modal-dialog
+    button.uk-modal-close-default(type='button', uk-close='')
+    .uk-modal-header
+      h2.uk-modal-title Sign Up
+    .uk-modal-body
+      .uk-container 
+        form(method='POST' action='/auth/register')
+          fieldset.uk-fieldset
+            //- legend.uk-legend Sign Up
+          .uk-margin
+            input#name.uk-input(type='text', placeholder='Name', name='name')
+          .uk-margin
+            input#email.uk-input(type='text', placeholder='Email address', name='email')
+          .uk-margin
+            input#pw.uk-input(type='text', placeholder='Password', name='password')
+          .uk-margin
+            input#pw2.uk-input(type='text', placeholder='Re-type password', name='confirmPassword')
+          .uk-margin
+            button.uk-button.uk-button-primary(type='submit') Sign up
+
+    .uk-modal-footer.uk-text-right
+      p We're glad you're joining the intelligence community.

@@ -1,0 +1,371 @@
+  {
+    "name": "Arapahoe Basin",
+    "class": "resort",
+    "pass": "EPIC",
+    "snoCountryID": 303001,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Keystone",
+      "zip": 80435,
+      "type": 'Point',
+      "coordinates": [39.6423, -105.8717]
+    }
+
+  }
+
+  {
+    "name": "Aspen Highlands",
+    "class": "resort",
+    "snoCountryID": 303004,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Aspen",
+      "zip":  81611,
+      "type": 'Point',
+      "coordinates": [39.1863, -106.8182]
+    }
+  }
+
+  {
+    "name": "Aspen Mountain",
+    "class": "resort",
+    "pass": "IKON",
+    "snoCountryID": 303003,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Aspen",
+      "type": 'Point',
+      "coordinates": [39.1863, -106.8183]
+    }
+  }
+
+  {
+    "name": "Beaver Creek",
+    "class": "resort",
+    "pass": "EPIC",
+    "snoCountryID": 303005,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Beaver Creek",
+      "zip":  81620,
+      "type": 'Point',
+      "coordinates": [39.6042, -106.5165]
+    }
+  }
+
+  {
+    "name": "Breckenridge",
+    "class": "resort",
+    "pass": "EPIC",
+    "snoCountryID": 303007,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Breckenridge",
+      "zip":  80424,
+      "type": 'Point',
+      "coordinates": [39.4802, -106.0667]
+    }
+  }
+
+  {
+    "name": "Buttermilk Mountain",
+    "class": "resort",
+    "snoCountryID": 303027,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Aspen",
+      "zip":  81611,
+      "type": 'Point',
+      "coordinates": [39.2058, -106.8605]
+    }
+  }
+
+  {
+    "name": "Cooper",
+    "class": "resort",
+    "snoCountryID": 719003,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "",
+      "type": 'Point',
+      "coordinates": [39.3608, -106.3028]
+    }
+  }
+
+  {
+    "name": "Copper",
+    "class": "resort",
+    "snoCountryID": 303009,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Copper Mountain",
+      "zip":  80443,
+      "type": 'Point',
+      "coordinates": [39.5021, -106.1510]
+    }
+  }
+
+  {
+    "name": "Crested Butte",
+    "class": "resort",
+    "snoCountryID": 303010,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Crested Butte",
+      "zip":  81224,
+      "type": 'Point',
+      "coordinates": [38.8697, -106.9878]
+    }
+  }
+
+  {
+    "name": "Echo Mountain Park",
+    "class": "resort",
+    "snoCountryID": 720001,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Idaho Springs",
+      "type": 'Point',
+      "coordinates": [39.68500, -105.51944]
+    }
+  }
+
+  {
+    "name": "Eldora",
+    "class": "resort",
+    "pass": "IKON",
+    "snoCountryID": 303011,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Nederland",
+      "zip":  80466,
+      "type": 'Point',
+      "coordinates": [39.9372, -105.5827]
+    },
+    "resort_info": {
+      "summit_elevation_f": 4395,
+      "peak_skiing_elevation_f": 3625,
+      "skiable_acres": 485,
+      "vertical_m": 29000,
+      "vertical_f": 2360,
+      "lifts": 12,
+      "trails": 116,
+      "hourly_lift_capacity": 15516,
+      "snowmaking_coverage": 83,
+      "avg_annual_snowfall_in": 314
+    }
+  }
+
+  {
+    "name": "Keystone",
+    "class": "resort",
+    "pass": "EPIC",
+    "snoCountryID": 303014,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Keystone",
+      "zip": 80435,
+      "type": 'Point',
+      "coordinates": [39.6084, -105.9437]
+    }
+  }
+
+  {
+    "name": "Loveland",
+    "class": "resort",
+    "snoCountryID": 303015,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Dillon",
+      "zip": 80435,
+      "type": 'Point',
+      "coordinates": [39.6800, -105.8979]
+    }
+  }
+
+  {
+    "name": "Monarch",
+    "class": "resort",
+    "snoCountryID": 719002,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Salida",
+      "type": 'Point',
+      "coordinates": [38.5122, -106.3322]
+    }
+  }
+
+  {
+    "name": "Powderhorn",
+    "class": "resort",
+    "snoCountryID": 303016,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "",
+      "type": 'Point',
+      "coordinates": [39.0694, -108.1507]
+    }
+  }
+
+  {
+    "name": "Purgatory",
+    "class": "resort",
+    "snoCountryID": 303017,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Durango",
+      "zip": 81301,
+      "type": 'Point',
+      "coordinates": [37.6303, -107.8140]
+    }
+  }
+
+  {
+    "name": "Silverton Mountain",
+    "class": "resort",
+    "snoCountryID": 303387,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "",
+      "type": 'Point',
+      "coordinates": [37.8846, -107.6659]
+    },
+    "resort_info": {
+      "vertical_m": 643,
+      "lifts": 1
+    }
+  }
+
+  {
+    "name": "Steamboat",
+    "class": "resort",
+    "pass": "Epic",
+    "snoCountryID": 303021,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Steamboat Springs",
+      "zip":  80487,
+      "type": 'Point',
+      "coordinates": [40.4572, -106.8045]
+    }
+  }
+
+  {
+    "name": "Winter Park",
+    "class": "resort",
+    "pass": "Ikon",
+    "snoCountryID": 303024,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Winter Park",
+      "zip":  80482,
+      "type": 'Point',
+      "coordinates": [39.8868, -105.7625]
+    }
+  }
+
+  {
+    "name": "Vail",
+    "class": "resort",
+    "pass": "Epic",
+    "snoCountryID": 303023,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Vail",
+      "zip":  81657,
+      "type": 'Point',
+      "coordinates": [39.6061, -106.3564]
+    }
+  }
+
+  {
+    "name": "Telluride",
+    "class": "resort",
+    "pass": "Epic",
+    "snoCountryID": 303022,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Telluride",
+      "zip":  81435,
+      "type": 'Point',
+      "coordinates": [37.937492, -107.812286]
+    }
+
+  }
+
+  {
+    "name": "Snowmass",
+    "class": "resort",
+    "pass": "IKON",
+    "snoCountryID": 303020,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Snowmass Village",
+      "zip":  81654,
+      "type": 'Point',
+      "coordinates": [39.2090, -106.9499]
+    }
+
+  }
+
+  {
+    "name": "Wolf Creek",
+    "class": "resort",
+    "snoCountryID": 303025,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Pagosa Springs",
+      "zip": 81147,
+      "type": 'Point',
+      "coordinates": [37.5010701,-106.8074002]
+    }
+  }
+
+  {
+    "name": "Granby Ranch",
+    "class": "resort",
+    "snoCountryID": 303018,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "",
+      "type": 'Point',
+      "coordinates": [40.0452, -105.9062]
+    }
+  }
+
+  {
+    "name": "Sunlight Mountain",
+    "class": "resort",
+    "snoCountryID": 303019,
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "",
+      "type": 'Point',
+      "coordinates": [39.3998, -107.3388]
+    }
+  }

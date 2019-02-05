@@ -1,0 +1,25 @@
+{
+    "name": "Alyeska Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 907002,
+    "location": {
+        "country": "USA",
+        "state": "Alaska",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Eaglecrest Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": 907003,
+    "location": {
+        "country": "USA",
+        "state": "Alaska",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

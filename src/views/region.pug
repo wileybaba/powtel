@@ -1,0 +1,82 @@
+extends layout
+
+block content
+  div(class='uk-child-width-expand@s')
+    .uk-container.uk-container-expand
+      h1.uk-heading-primary(style='margin-top: 30px;') #{data[0].location.state}  
+      form(style='width:30%;')
+        .uk-margin
+          select.uk-select.id_of_select
+            option Sort By
+            option(value='maxSnowSort') Most Current Snow 
+            option(value='maxSnowSort') Most Forecasted Snow 
+            option(value='maxTerrainSort') Most Terrain Open
+            option(value='leastCrowdedSort') Least Crowded
+
+    .uk-container.uk-container-expand.uk-margin
+      ul 
+        each resort in data
+          if resort
+            .uk-card.uk-card-default(class='uk-width-1-2@m')
+              .uk-card-header
+                .uk-grid-small.uk-flex-middle(uk-grid='')
+                  .uk-width-auto
+                  - let img = resort.logo 
+                  if img
+                    img.resort_logo(src= img).uk-margin-right
+                  else
+                    span(uk-icon='icon: image; ratio: 3.5').uk-margin-right
+                  .uk-width-expand
+                    a(href='/location/' + resort.name)
+                      h3.uk-card-title.uk-margin-remove-bottom= resort.name
+                    p.uk-text-meta.uk-margin-remove-top= resort.location.city + ', ' + resort.location.state
+                  .uk-width-auto
+              - const current_resort_data = resort.current_resort_data[0]  
+              if current_resort_data
+                .uk-card-body
+                  div.snow_report.uk-card.uk-card-default
+                    h1 Snow Totals
+                    div
+                    table.uk-table(cellpadding="0" cellspacing="0" border="0")
+                      thead.tbl-header
+                        tr
+                          th Past 48 Hours
+                          th Past 24 Hours
+                          th Next 3 Days
+                    div.tbl-content
+                      table(cellpadding="0" cellspacing="0" border="0")
+                        tbody
+                          tr
+                            td(style="font-size: 1.5rem; text-align: center;")= resort.current_resort_data[0].snowLast48Hours ? resort.current_resort_data[0].snowLast48Hours + "\"" : "0" + "\""
+                            td(style="font-size: 1.5rem; text-align: center;")= resort.current_resort_data[0].newSnowMin ? resort.current_resort_data[0].newSnowMin + "\"" : "0" + "\""
+                            td(style="font-size: 1.5rem; text-align: center;")= resort.current_resort_data[0].predictedSnowFall_72Hours ? resort.current_resort_data[0].predictedSnowFall_72Hours + "\"" : "0"  + "\""
+                    
+                  p
+                    | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+              
+              if resort.current_resort_data[0] || resort.current_weather_data
+                .uk-card-footer.uk-flex-inline.uk-flex-row
+                  if resort.current_resort_data[0].primarySurfaceCondition
+                    div(style="margin-right: 30px; text-align: center")
+                      dl.uk-description-list
+                        dt Surface Conditions
+                        dd.uk-badge.uk-label(style="background-color: #8080ff")= resort.current_resort_data[0].primarySurfaceCondition
+                  if resort.current_resort_data[0].openDownHillPercent
+                    div(style="margin-right: 30px; text-align: center")
+                      dl.uk-description-list 
+                        dt Open Terrain
+                        dd.uk-badge.uk-label(style="background-color: #80ff80; color: black")= resort.current_resort_data[0].openDownHillPercent + '%'
+                  if resort.current_weather_data.temp
+                    div(style="text-align: center")
+                      dl.uk-description-list 
+                        dt Current Temperature
+                        dd.uk-badge.uk-label(style="background-color: #4db8ff")= Math.round(resort.current_weather_data.temp) + '˚F'
+                  if resort.current_resort_data[0].weatherToday_Sunset
+                    div(style="text-align: center; margin-left: 30px;")
+                      dl.uk-description-list 
+                        dt Sunset
+                        //- img(src='../custom/icons/sunset.svg')
+                        dd.uk-badge.uk-label(style="background-color: #ff7d4d")= resort.current_resort_data[0].weatherToday_Sunset
+            .uk-margin
+          
+          

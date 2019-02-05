@@ -1,0 +1,145 @@
+{
+    "name": "Catamount Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413005",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Blue Hills Boston",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "617001",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Berkshire East Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413001",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Blandford",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413010",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Otis Ridge",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413008",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Bradford",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "508002",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Butternut",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413004",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Ward Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "508006",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Wachusett Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "508007",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Bousquet Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413002",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Nashoba Valley Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "508004",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Jiminy Peak Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "413006",
+    "location": {
+        "country": "USA",
+        "state": "Massachusetts",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

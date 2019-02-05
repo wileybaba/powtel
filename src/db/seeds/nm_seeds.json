@@ -1,0 +1,97 @@
+{
+    "name": "Angel Fire Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505001",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Sipapu Ski and Summer Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505006",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Red River Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505003",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Pajarito Mountain Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505002",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Apache",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505007",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Santa Fe",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505005",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Taos Ski Valley",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505009",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Sandia Peak Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "505004",
+    "location": {
+        "country": "USA",
+        "state": "New Mexico",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}

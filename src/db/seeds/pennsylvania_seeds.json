@@ -1,0 +1,241 @@
+{
+    "name": "Bear Creek Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "215003",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Blue Knob All Seasons Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "814001",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Big Boulder",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717002",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Camelback Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717003",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Elk Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717005",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Hidden Valley Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "814005",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Jack Frost",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717006",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Montage Mountain Ski Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717017",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Liberty Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717009",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mount Pleasant of Edinboro",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "814006",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Mystic Mountain at Nemacolin Woodlands",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717014",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Roundtop Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717015",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Blue Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "215002",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Seven Springs Mountain Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "814002",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Shawnee Mountain Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717008",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Sawmill",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717011",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Ski Big Bear",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717016",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Spring Mountain",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "215004",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Tussey Mountain Ski Area",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "814004",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}{
+    "name": "Whitetail Resort",
+    "pass": "",
+    "class": "resort",
+    "snoCountryID": "717013",
+    "location": {
+        "country": "USA",
+        "state": "Pennsylvania",
+        "city": "",
+        "type": "Point",
+        "coordinates": []
+    }
+}
